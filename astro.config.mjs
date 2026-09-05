@@ -12,7 +12,8 @@ export default defineConfig({
   //   and put that same host in public/CNAME. Do NOT set `base`.
   // • No custom domain (project page at <user>.github.io/<repo>): instead use
   //   site: 'https://<user>.github.io' and base: '/<repo>', and delete public/CNAME.
-  site: 'https://example.com',
+  site: 'https://Kimngan869.github.io',
+  base: '/MY-LAB',
 
   vite: {
     plugins: [tailwindcss()]
