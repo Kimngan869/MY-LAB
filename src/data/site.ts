@@ -32,16 +32,15 @@ export interface SiteConfig {
 }
 
 export const site: SiteConfig = {
-  name: "Example Laboratory",
-  shortName: "Example Lab",
+  name: "Green and Renewable Energy Laboratory",
+  shortName: "GRE Lab",
   pi: "Jane Doe, PhD",
   institution: "Your Institution",
   university: "Your University",
   // Your production URL (used for canonical links + sitemap). Set your domain.
-  url: "https://example.com",
+  url: "https://kimngan869.github.io/MY-LAB/",
   description:
-    "One or two sentences describing what your lab studies and why it matters. " +
-    "This shows as the homepage lead and the default meta description.",
+  "The Green and Renewable Energy Laboratory conducts research on sustainable materials, renewable energy technologies, and advanced energy systems.",
   email: "lab@example.edu",
   phone: "000-000-0000",
   address: [
